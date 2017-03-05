@@ -1,0 +1,8 @@
+li {
+	display: inline;
+	margin-right: 10px;
+}
+
+li.coming-soon {
+	visibility: hidden;
+}

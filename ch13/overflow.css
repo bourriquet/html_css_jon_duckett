@@ -1,0 +1,9 @@
+p.one {
+	max-height: 20px;
+	overflow: hidden;
+}
+
+p.two {
+	max-height: 20px;
+	overflow: scroll;
+}
