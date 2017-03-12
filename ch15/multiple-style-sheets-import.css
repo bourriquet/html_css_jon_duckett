@@ -1,0 +1,21 @@
+@import url("tables.css");
+@import url("typography.css");
+
+body {
+	color: #666;
+	background-color: #F8F8F8;
+	text-align: center;
+}
+
+#page {
+	width: 600px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #D6D6D6;
+	padding: 20px;
+}
+
+h3 {
+	color: #547CA0;
+}

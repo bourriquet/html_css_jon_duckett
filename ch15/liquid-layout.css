@@ -1,0 +1,41 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;
+}
+
+body {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#content {
+	overflow: auto;
+}
+
+#nav, #feature, #footer {
+	margin: 1%;
+}
+
+.col1, .col2, .col3 {
+	background-color: #EFEFEF;
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+}
+
+li {
+	display: inline;
+	padding: 0.5em;
+}
+
+#nav, #footer {
+	padding: 0.5em 0;
+	background-color: #EFEFEF;
+}
+
+#feature, .article {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #EFEFEF;
+}
